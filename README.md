@@ -17,5 +17,5 @@ source ./setup_react.sh
 ```
 * note: your current command shell directory (e.g. c:\temp) will be mapped to the container as "/workdir".
 
-# contirbutors
-* Cameron Kennedy
+# contributors
+* cameron kennedy
